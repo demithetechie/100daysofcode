@@ -37,6 +37,8 @@ print(f"Your score is {score}")
 ```
 Curly brackets are used to refer to a variable. The f must be writted before the string, to indicate to python that this is a f string.
 
+# Day 3 - Conditional Statements, Logical Operators, Code Blocks and Scope
+
 
 
 
