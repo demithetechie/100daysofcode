@@ -73,3 +73,4 @@ mylist = [item1, item2, item3]
 ```
 Lists have order, meaning that you can use indexes to refer to an item in a list (similar to how individual characters can be referenced in a string)
 
+# Day 5 - 
