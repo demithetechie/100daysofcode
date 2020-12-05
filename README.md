@@ -1,4 +1,4 @@
-# 100 days of code
+# 👩🏾‍💻100 days of code👩🏾‍💻
 
 I will be starting the 100 days of code challenge with Python. Updates will be placed here daily from 1st December.
 Proposed finish date: 11th March 2021
@@ -73,4 +73,8 @@ mylist = [item1, item2, item3]
 ```
 Lists have order, meaning that you can use indexes to refer to an item in a list (similar to how individual characters can be referenced in a string)
 
-# Day 5 - 
+# Day 5 - For loops, Range and Code Blocks
+
+Challenge: Password Generator
+
+Important notes: 
