@@ -1,6 +1,7 @@
-# 100daysofcode
+# 100 days of code
 
 I will be starting the 100 days of code challenge with Python. Updates will be placed here daily from 1st December.
+Proposed finish date: 11th March 2021
 
 # Day 1 - Printing, Variables, Strings
 
@@ -43,4 +44,32 @@ Challenge: Treasure Island
 
 Important notes: Use logical operators `and, or, not` to validate expressions in Python.
 
+# Day 4 - Randomisation and Python Lists
+
+Challenge: Rock, Paper, Scissors
+
+Important notes: Computers are deterministic, which means that they perform actions in a predictable way. The python random library uses a pseudorandom number generator. 
+
+https://www.askpython.com/ = very good for finding out more about python modules, libraries and documentation.
+
+A module is another file of code that can be used in your code. You can create additional modules in python by simply creating a new python file and referring to that file in the main python file by using `import filename`.
+
+```python
+# my_module file
+pi = 3.14159
+
+# main file
+import my_module
+
+print(my_module.pi)
+```
+This code will print `3.14159` to the console.
+
+A list is a type of **data structure** (a data structure being a method to organise, store and represent data in code).
+In python, lists are defined using square brackets:
+
+```python
+mylist = [item1, item2, item3]
+```
+Lists have order, meaning that you can use indexes to refer to an item in a list (similar to how individual characters can be referenced in a string)
 
