@@ -92,7 +92,7 @@ age
 surname
 ```
 
-# Day 6 - Functions, Code Blocks and While Looops
+# Day 6 - Functions, Code Blocks and While Loops
 
 Challenge: Escaping the maze - using Karel
 
