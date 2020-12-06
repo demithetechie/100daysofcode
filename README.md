@@ -77,4 +77,28 @@ Lists have order, meaning that you can use indexes to refer to an item in a list
 
 Challenge: Password Generator
 
-Important notes: 
+Important notes: Research the functions under the random module e.g. `shuffle()` and `choice()`
+
+```python
+my_list = ["name", "age", "surname"]
+for name in my_list:
+  print(name)
+```
+This will print:
+
+```python
+name
+age
+surname
+```
+
+# Day 6 - Functions, Code Blocks and While Looops
+
+Challenge: Escaping the maze - using Karel
+
+Important notes: Most of the coding for this project was done on this website: https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Hurdle%201&url=worlds%2Ftutorial_en%2Fhurdle1.json
+
+# Day 7 - Hangman project
+
+Today is dedicated solely for the hangman project. 
+
