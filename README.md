@@ -102,3 +102,4 @@ Important notes: Most of the coding for this project was done on this website: h
 
 Today is dedicated solely for the hangman project. 
 
+# Day 8 - 
