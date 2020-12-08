@@ -108,4 +108,15 @@ Link to view: https://repl.it/@DemiladeOshin/Day-7-Hangman-5-Start
 
 Challenge: Caesar Cipher
 
-Important notes:
+Important notes: Parameters are the name of the variable that the function deals with. Arguments are the raw value assigned to the parameter. 
+
+A **positional argument** is when the arguments are assigned to the variables by their position in the function definition.
+A **keyword argument** is when the keywords are used to assign values to specific variables when the funciton is called, meaning that the position of the value in the function definition doesn't matter.
+
+```python
+# positional
+my_function(1, 2, 3)
+# keyword
+my_function(a=1, b=2, c=3)
+```
+
