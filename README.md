@@ -100,7 +100,9 @@ Important notes: Most of the coding for this project was done on this website: h
 
 # Day 7 - Hangman project
 
-Today is dedicated solely for the hangman project. 
+Today is dedicated solely for the hangman project.
+
+Link to view: https://repl.it/@DemiladeOshin/Day-7-Hangman-5-Start
 
 # Day 8 - Functions and Inputs
 
