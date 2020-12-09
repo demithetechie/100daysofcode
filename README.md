@@ -130,8 +130,24 @@ Dictionaries in python are initiated with curly brackets, and each item is seper
 
 ```python
 my_dictionary = {
-"Jack": "18", 
-"Bob": "19", 
-"James": "20"
+  "Jack": "18", 
+  "Bob": "19", 
+  "James": "20"
 }
+
+print(my_dictionary["Jack"]) # This prints out 18
+
+my_dictionary["Joe"] = "20" # This adds another item to the dictionary
+
+del my_dictionary["Jack"] # This deletes the item "Jack" from the dictionary
+
+print(my_dictionary) # When this is run, the dictionary will only have 3 items: Bob, James and Joe
+
+my_dictionary["Bob"] = "24" # This reassigns "Bob" to "24"
+
+for item in my_dictionary:
+  print(item) # This prints out all the keys in the dictionary
+
 ```
+
+
