@@ -120,3 +120,18 @@ my_function(1, 2, 3)
 # keyword
 my_function(a=1, b=2, c=3)
 ```
+# Day 9 - Dictionaries and Nesting
+
+Challenge: Secret Auction Program
+
+Important notes: A **dictionary** is a set of key:value pairs, where the key is unique for every item in the dictionary. In other languages, dictionaries are known as "associative arrays" or "associative memories". Dictionaries are an inbuilt data structure in python, and they are indexed with keys.
+
+Dictionaries in python are initiated with curly brackets, and each item is seperated with commas:
+
+```python
+my_dictionary = {
+"Jack": "18", 
+"Bob": "19", 
+"James": "20"
+}
+```
