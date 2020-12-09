@@ -111,6 +111,7 @@ Challenge: Caesar Cipher
 Important notes: Parameters are the name of the variable that the function deals with. Arguments are the raw value assigned to the parameter. 
 
 A **positional argument** is when the arguments are assigned to the variables by their position in the function definition.
+
 A **keyword argument** is when the keywords are used to assign values to specific variables when the funciton is called, meaning that the position of the value in the function definition doesn't matter.
 
 ```python
@@ -119,4 +120,60 @@ my_function(1, 2, 3)
 # keyword
 my_function(a=1, b=2, c=3)
 ```
+# Day 9 - Dictionaries and Nesting
 
+Challenge: Secret Auction Program
+
+Important notes: A **dictionary** is a set of key:value pairs, where the key is unique for every item in the dictionary. In other languages, dictionaries are known as "associative arrays" or "associative memories". Dictionaries are an inbuilt data structure in python, and they are indexed with keys.
+
+Dictionaries in python are initiated with curly brackets, and each item is seperated with commas:
+
+```python
+my_dictionary = {
+  "Jack": "18", 
+  "Bob": "19", 
+  "James": "20"
+}
+
+print(my_dictionary["Jack"]) # This prints out 18
+
+my_dictionary["Joe"] = "20" # This adds another item to the dictionary
+
+del my_dictionary["Jack"] # This deletes the item "Jack" from the dictionary
+
+print(my_dictionary) # When this is run, the dictionary will only have 3 items: Bob, James and Joe
+
+my_dictionary["Bob"] = "24" # This reassigns "Bob" to "24"
+
+for item in my_dictionary:
+  print(item) # This prints out all the keys in the dictionary
+
+```
+
+### Nesting
+
+Nesting helps us create more complex data structures, and it allows us to store more than one value per key.
+
+```python
+#Nesting a List in a Dictionary
+
+travel_log = {
+  "France": ["Paris", "Lille", "Dijon"],
+  "Germany": ["Berlin", "Hamburg", "Stuttgart"],
+}
+
+#Nesting Dictionary in a Dictionary
+
+travel_log = {
+  "France": {"cities_visited": ["Paris", "Lille", "Dijon"], "total_visits": 12},
+  "Germany": {"cities_visited": ["Berlin", "Hamburg", "Stuttgart"], "total_visits": 5},
+}
+
+#Nesting Dictionaries in Lists
+
+travel_log = [
+{
+  "country": "France", 
+  "cities_visited": ["Paris", "Lille", "Dijon"], 
+  "total_visits": 12,
+},
