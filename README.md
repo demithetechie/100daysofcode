@@ -176,4 +176,13 @@ travel_log = [
   "country": "France", 
   "cities_visited": ["Paris", "Lille", "Dijon"], 
   "total_visits": 12,
-},
+}
+```
+
+# Day 10 - Functions and Outputs
+
+Challenge: Calculator program
+
+Important notes: **Docstrings** are ways to create documentation for the functions that we write. This helps other programmers know what our functions are doing, and it also reminds us the purpose of a given function. To declare a docstring, you use three double quotes `""" docstring goes here """`.
+
+
