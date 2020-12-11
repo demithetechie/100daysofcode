@@ -187,3 +187,6 @@ Important notes: **Docstrings** are ways to create documentation for the functio
 
 You can use command + / to comment multiple lines at once (or control + / for Windows). You can also use docstrings outside of functions as multi-line comments.
 
+# Day 11 - Blackjack Project
+
+Coding a blackjack game in Python.
