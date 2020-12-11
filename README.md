@@ -190,3 +190,5 @@ You can use command + / to comment multiple lines at once (or control + / for Wi
 # Day 11 - Blackjack Project
 
 Coding a blackjack game in Python.
+
+# Day 12 - ???
