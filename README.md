@@ -196,6 +196,8 @@ Code can be found in the day 11 folder
 
 Challenge: Number Guessing Game
 
+Important notes: Local and Global Scope
+
 # Day 13 - Debugging practice
 
 No challenge for today
