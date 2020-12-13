@@ -200,3 +200,8 @@ Challenge: Number Guessing Game
 
 No challenge for today
 
+# Day 14 - Higher Lower Project
+
+Completing the higher lower project.
+
+# Day 15 - Intermediate🎉 - Local Development Environment Setup
