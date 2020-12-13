@@ -190,5 +190,13 @@ You can use command + / to comment multiple lines at once (or control + / for Wi
 # Day 11 - Blackjack Project
 
 Coding a blackjack game in Python.
+Code can be found in the day 11 folder
 
-# Day 12 - ???
+# Day 12 - Scope
+
+Challenge: Number Guessing Game
+
+# Day 13 - Debugging practice
+
+No challenge for today
+
