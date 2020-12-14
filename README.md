@@ -190,5 +190,28 @@ You can use command + / to comment multiple lines at once (or control + / for Wi
 # Day 11 - Blackjack Project
 
 Coding a blackjack game in Python.
+Code can be found in the day 11 folder
 
-# Day 12 - ???
+# Day 12 - Scope
+
+Challenge: Number Guessing Game
+
+Important notes: Local and Global Scope
+
+Local variables are defined within functions. They cannot be used outside of that function, it is only valid within the function.
+Global variables can be used throughout the program and they can be used in functions as well. There are defined outside of functions.
+Anything that you name in code, is known as a namespace.
+
+There is no block scope in Python. Variables defined within an if block etc an be used throughout the program.
+
+You can use the term `global` to refer to variables created in global scope. However, you should avoid modifying global variables as it is not good coding practice and it is prone to errors.
+
+# Day 13 - Debugging practice
+
+No challenge for today.
+
+# Day 14 - Higher Lower Project
+
+Completing the higher lower project.
+
+# Day 15 - Intermediate🎉 - Local Development Environment Setup
