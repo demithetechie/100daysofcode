@@ -198,9 +198,17 @@ Challenge: Number Guessing Game
 
 Important notes: Local and Global Scope
 
+Local variables are defined within functions. They cannot be used outside of that function, it is only valid within the function.
+Global variables can be used throughout the program and they can be used in functions as well. There are defined outside of functions.
+Anything that you name in code, is known as a namespace.
+
+There is no block scope in Python. Variables defined within an if block etc an be used throughout the program.
+
+You can use the term `global` to refer to variables created in global scope. However, you should avoid modifying global variables as it is not good coding practice and it is prone to errors.
+
 # Day 13 - Debugging practice
 
-No challenge for today
+No challenge for today.
 
 # Day 14 - Higher Lower Project
 
