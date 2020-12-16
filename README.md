@@ -231,3 +231,5 @@ OOP has classes and objects. A class is a template for creating objects, and it 
 PyPI has a collection of various packages that other developers have created for people to use in their own code. Code reusability is important when developing new functions and procedures.
 
 # Day 17 - ???
+
+# Day 18 - ???
