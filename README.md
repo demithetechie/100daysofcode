@@ -220,10 +220,14 @@ Using PyCharm
 
 # Day 16 - Introduction to Object Oriented Programming
 
-Challenge:
+Challenge: Coffee Machine using OOP
 
 Important notes: **OOP** is based on objects and it helps to simplify real world problems into code. It makes use of polymorphism, inheritance and more to manipulate data related to objects. Objects have methods and attributes (public and private class). Attributes are private and methods are public. Attributes can only be modified by functions.
 
 An attribute is a way to store data about an object. A method allows us to manipulate attributes. Methods are functions that objects can perform.
 
 OOP has classes and objects. A class is a template for creating objects, and it includes the methods and attributes of the object. An object is an instantiation of a class (class instantiation). The object is what is manipulated by the program.
+
+PyPI has a collection of various packages that other developers have created for people to use in their own code. Code reusability is important when developing new functions and procedures.
+
+# Day 17 - ???
