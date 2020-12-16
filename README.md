@@ -216,4 +216,14 @@ Completing the higher lower project.
 
 # Day 15 - Intermediate🎉 - Local Development Environment Setup
 
+Using PyCharm
 
+# Day 16 - Introduction to Object Oriented Programming
+
+Challenge:
+
+Important notes: **OOP** is based on objects and it helps to simplify real world problems into code. It makes use of polymorphism, inheritance and more to manipulate data related to objects. Objects have methods and attributes (public and private class). Attributes are private and methods are public. Attributes can only be modified by functions.
+
+An attribute is a way to store data about an object. A method allows us to manipulate attributes. Methods are functions that objects can perform.
+
+OOP has classes and objects. A class is a template for creating objects, and it includes the methods and attributes of the object. An object is an instantiation of a class (class instantiation). The object is what is manipulated by the program.
