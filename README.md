@@ -216,7 +216,13 @@ Completing the higher lower project.
 
 # Day 15 - Intermediate🎉 - Local Development Environment Setup
 
-Using PyCharm
+Using PyCharm.
+
+PyCharm has various features including:
+**Spell Check** - checks spell check of the words you are typing
+**More Space** - PyCharm allows for more files to code with. You can also split screen by right clicking on the file and pressing "Split to right" or "Split to left"
+**Built In Linter** - This picks out bits of code and lets you know if you are writing in the correct style of coding. PEP 8
+**Local History** -
 
 # Day 16 - Introduction to Object Oriented Programming
 
@@ -230,6 +236,20 @@ OOP has classes and objects. A class is a template for creating objects, and it 
 
 PyPI has a collection of various packages that other developers have created for people to use in their own code. Code reusability is important when developing new functions and procedures.
 
-# Day 17 - ???
+# Day 17 - The quiz project and benefits of OOP
+
+Important notes: Creating classes in python requires the following syntax:
+```python
+class ClassName
+```
+
+Creating attributes in python:
+
+```python
+def __init__(self, name, age):
+      self.name = name
+      self.age = age
+```
+Method are created as new functions. All methods need to have the self parameter.
 
 # Day 18 - ???
