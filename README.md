@@ -221,8 +221,8 @@ Using PyCharm.
 PyCharm has various features including:
 **Spell Check** - checks spell check of the words you are typing
 **More Space** - PyCharm allows for more files to code with. You can also split screen by right clicking on the file and pressing "Split to right" or "Split to left"
-**Built In Linter** - This picks out bits of code and lets you know if you are writing in the correct style of coding. PEP 8
-**Local History** -
+**Built In Linter** - This picks out bits of code and lets you know if you are writing in the correct style of coding. PEP 8 is the style used in PyCharm. Helps you improve the way you code in python. 
+**Local History** - This allows you to see changes to the code
 
 # Day 16 - Introduction to Object Oriented Programming
 
@@ -252,4 +252,6 @@ def __init__(self, name, age):
 ```
 Method are created as new functions. All methods need to have the self parameter.
 
-# Day 18 - ???
+# Day 18 - Turle graphics, tuples and importing modules
+
+Important notes:
