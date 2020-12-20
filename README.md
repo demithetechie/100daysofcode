@@ -216,13 +216,15 @@ Completing the higher lower project.
 
 # Day 15 - Intermediate🎉 - Local Development Environment Setup
 
-Using PyCharm.
+Using PyCharm:
 
 PyCharm has various features including:
-**Spell Check** - checks spell check of the words you are typing
+**Spell Check** - This spell checks the words you are typing, so that you don't have unneseccary spelling errors in your code.
 **More Space** - PyCharm allows for more files to code with. You can also split screen by right clicking on the file and pressing "Split to right" or "Split to left"
 **Built In Linter** - This picks out bits of code and lets you know if you are writing in the correct style of coding. PEP 8 is the style used in PyCharm. Helps you improve the way you code in python. 
-**Local History** - This allows you to see changes to the code
+**Local History** - This allows you to see changes to the code. You can go back to the last 12 hours to figure out what you were coding beforehand. Use the show history tab to view local history
+**View Structure of code** - This allows you to see all the functions and variables declared in your code. You can use the structure pane to view how you code is organised.
+**Refactor** - Allows you to rename functions without changing every occurence of the function
 
 # Day 16 - Introduction to Object Oriented Programming
 
