@@ -255,3 +255,11 @@ Method are created as new functions. All methods need to have the self parameter
 # Day 18 - Turle graphics, tuples and importing modules
 
 Important notes: A **tuple** is a data structure in python, which is created using parathesis. Tuple values cannot be changed, they are immutable. Tuples are useful for data that you do not want to change. They can also act as keys in python dictionaries.
+
+# Day 19 - More Turtle Graphics, Event listeners, State and multiple instances
+
+# Day 20 - Build the snake game Part 1 - Animation and Control
+
+# Day 21 - Build the snake game Part 2 - Inheritance and List Slicing
+
+# Day 22 - Build Pong: Famous Arcade Game
