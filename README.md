@@ -7,13 +7,13 @@ Proposed finish date: 11th March 2021
 
 Challenge: Band Name Generator
 
-Important notes: Use \n for a newline.
+Use \n for a newline.
 
 # Day 2 - Data Types (Strings, Integers, Floats and Booleans), Mathematical Operations, String and Number Manipulation, F strings
 
 Challenge: Tip Calculator
 
-Important notes: Using indexes on strings to reference a character of a string. Strings can be added together to form longer strings.
+Using indexes on strings to reference a character of a string. Strings can be added together to form longer strings.
 
 ```python
 print("Hello"[0])
@@ -42,13 +42,13 @@ Curly brackets are used to refer to a variable. The f must be writted before the
 
 Challenge: Treasure Island
 
-Important notes: Use logical operators `and, or, not` to validate expressions in Python.
+Use logical operators `and, or, not` to validate expressions in Python.
 
 # Day 4 - Randomisation and Python Lists
 
 Challenge: Rock, Paper, Scissors
 
-Important notes: Computers are deterministic, which means that they perform actions in a predictable way. The python random library uses a pseudorandom number generator. 
+Computers are deterministic, which means that they perform actions in a predictable way. The python random library uses a pseudorandom number generator. 
 
 https://www.askpython.com/ = very good for finding out more about python modules, libraries and documentation.
 
@@ -77,7 +77,7 @@ Lists have order, meaning that you can use indexes to refer to an item in a list
 
 Challenge: Password Generator
 
-Important notes: Research the functions under the random module e.g. `shuffle()` and `choice()`
+Research the functions under the random module e.g. `shuffle()` and `choice()`
 
 ```python
 my_list = ["name", "age", "surname"]
@@ -96,7 +96,7 @@ surname
 
 Challenge: Escaping the maze - using Karel
 
-Important notes: Most of the coding for this project was done on this website: https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Hurdle%201&url=worlds%2Ftutorial_en%2Fhurdle1.json
+Most of the coding for this project was done on this website: https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Hurdle%201&url=worlds%2Ftutorial_en%2Fhurdle1.json
 
 # Day 7 - Hangman project
 
@@ -108,7 +108,7 @@ Link to view: https://repl.it/@DemiladeOshin/Day-7-Hangman-5-Start
 
 Challenge: Caesar Cipher
 
-Important notes: Parameters are the name of the variable that the function deals with. Arguments are the raw value assigned to the parameter. 
+Parameters are the name of the variable that the function deals with. Arguments are the raw value assigned to the parameter. 
 
 A **positional argument** is when the arguments are assigned to the variables by their position in the function definition.
 
@@ -183,7 +183,7 @@ travel_log = [
 
 Challenge: Calculator program
 
-Important notes: **Docstrings** are ways to create documentation for the functions that we write. This helps other programmers know what our functions are doing, and it also reminds us the purpose of a given function. To declare a docstring, you use three double quotes `""" docstring goes here """`.
+**Docstrings** are ways to create documentation for the functions that we write. This helps other programmers know what our functions are doing, and it also reminds us the purpose of a given function. To declare a docstring, you use three double quotes `""" docstring goes here """`.
 
 You can use command + / to comment multiple lines at once (or control + / for Windows). You can also use docstrings outside of functions as multi-line comments.
 
@@ -196,7 +196,7 @@ Code can be found in the day 11 folder
 
 Challenge: Number Guessing Game
 
-Important notes: Local and Global Scope
+Local and Global Scope
 
 Local variables are defined within functions. They cannot be used outside of that function, it is only valid within the function.
 Global variables can be used throughout the program and they can be used in functions as well. There are defined outside of functions.
@@ -216,4 +216,58 @@ Completing the higher lower project.
 
 # Day 15 - Intermediate🎉 - Local Development Environment Setup
 
+Using PyCharm:
 
+PyCharm has various features including:  
+
+**Spell Check** - This spell checks the words you are typing, so that you don't have unneseccary spelling errors in your code.  
+
+**More Space** - PyCharm allows for more files to code with. You can also split screen by right clicking on the file and pressing "Split to right" or "Split to left". 
+
+**Built In Linter** - This picks out bits of code and lets you know if you are writing in the correct style of coding. PEP 8 is the style used in PyCharm. Helps you improve the way you code in python.  
+
+**Local History** - This allows you to see changes to the code. You can go back to the last 12 hours to figure out what you were coding beforehand. Use the show history tab to view local history.  
+
+**View Structure of code** - This allows you to see all the functions and variables declared in your code. You can use the structure pane to view how you code is organised.  
+
+**Refactor** - Allows you to rename functions without changing every occurence of the function
+
+# Day 16 - Introduction to Object Oriented Programming
+
+Challenge: Coffee Machine using OOP
+
+**OOP** is based on objects and it helps to simplify real world problems into code. It makes use of polymorphism, inheritance and more to manipulate data related to objects. Objects have methods and attributes (public and private class). Attributes are private and methods are public. Attributes can only be modified by functions.
+
+An attribute is a way to store data about an object. A method allows us to manipulate attributes. Methods are functions that objects can perform.
+
+OOP has classes and objects. A class is a template for creating objects, and it includes the methods and attributes of the object. An object is an instantiation of a class (class instantiation). The object is what is manipulated by the program.
+
+PyPI has a collection of various packages that other developers have created for people to use in their own code. Code reusability is important when developing new functions and procedures.
+
+# Day 17 - The quiz project and benefits of OOP
+
+Creating classes in python requires the following syntax:
+```python
+class ClassName
+```
+
+Creating attributes in python:
+
+```python
+def __init__(self, name, age):
+      self.name = name
+      self.age = age
+```
+Method are created as new functions. All methods need to have the self parameter.
+
+# Day 18 - Turle graphics, tuples and importing modules
+
+A **tuple** is a data structure in python, which is created using parathesis. Tuple values cannot be changed, they are immutable. Tuples are useful for data that you do not want to change. They can also act as keys in python dictionaries.
+
+# Day 19 - More Turtle Graphics, Event listeners, State and multiple instances
+
+# Day 20 - Build the snake game Part 1 - Animation and Control
+
+# Day 21 - Build the snake game Part 2 - Inheritance and List Slicing
+
+# Day 22 - Build Pong: Famous Arcade Game
