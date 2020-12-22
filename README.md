@@ -268,6 +268,18 @@ A **tuple** is a data structure in python, which is created using parathesis. Tu
 
 # Day 20 - Build the snake game Part 1 - Animation and Control
 
+The snake game makes use of an array of python turtles, which all follow the head of the snake. This means that controlling movement with the snake is simple, as each segment of the snake follows the head, so only the head needs to change direction each time.
+
+The snake game is being coded with 3 seperate files alongside the main.py file, to make the code more reusable and effective. Using OOP with python turtle is helpful to manage the attributes and methods of the snake.
+
 # Day 21 - Build the snake game Part 2 - Inheritance and List Slicing
+
+Use `super()` to inherit a previous class.
+
+```python
+Class Fish(Animal):
+  def __init__(self):
+    super().__init__()
+```
 
 # Day 22 - Build Pong: Famous Arcade Game
