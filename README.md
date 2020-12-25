@@ -283,3 +283,9 @@ Class Fish(Animal):
 ```
 
 # Day 22 - Build Pong: Famous Arcade Game
+
+# Day 23 - Turtle Crossing Capstone Project
+
+# Day 24 - Files, Directories and Paths
+
+# Day 25 - Working with CSV data and Pandas module
