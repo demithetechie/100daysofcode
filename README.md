@@ -281,7 +281,14 @@ Class Fish(Animal):
   def __init__(self):
     super().__init__()
 ```
+List slicing is done using colons:
 
+```python
+mylist[2:5] # returns the 3rd, 4th and 5th item in the list
+mylist[2:] # returns everything after the 2nd item in the list
+mylist[:3] # returns the last 3 items in the list
+mylist[2:6:2] # returns every 2nd item between the 2th item and the 6th item (3rd and 5th item)
+```
 # Day 22 - Build Pong: Famous Arcade Game
 
 # Day 23 - Turtle Crossing Capstone Project
@@ -289,3 +296,5 @@ Class Fish(Animal):
 # Day 24 - Files, Directories and Paths
 
 # Day 25 - Working with CSV data and Pandas module
+
+# Day 26 - List Comprehension and the NATO Alphabet
