@@ -301,4 +301,8 @@ Similar gameplay to crossy road. As the level goes up, the speed of the cars inc
 
 # Day 25 - Working with CSV data and Pandas module
 
+Pandas module allows us to perform data analysis on big datasets.
+Pandas has 2 main data structures: Data Frames and Series.
+Data Frames are similar to tables, Series are similar to lists.
+
 # Day 26 - List Comprehension and the NATO Alphabet
