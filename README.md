@@ -291,7 +291,11 @@ mylist[2:6:2] # returns every 2nd item between the 2th item and the 6th item (3r
 ```
 # Day 22 - Build Pong: Famous Arcade Game
 
+Creating various instances of an object, detecting collisions between the ball and the pong paddle. Ball movement goes diagonal across x and y axis.
+
 # Day 23 - Turtle Crossing Capstone Project
+
+Similar gameplay to crossy road. As the level goes up, the speed of the cars increase.
 
 # Day 24 - Files, Directories and Paths
 
