@@ -299,6 +299,8 @@ Similar gameplay to crossy road. As the level goes up, the speed of the cars inc
 
 # Day 24 - Files, Directories and Paths
 
+Added a highscore file to Snake so that the game saves the highest score on the device.
+
 # Day 25 - Working with CSV data and Pandas module
 
 Pandas module allows us to perform data analysis on big datasets.
