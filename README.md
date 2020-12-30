@@ -266,6 +266,14 @@ A **tuple** is a data structure in python, which is created using parathesis. Tu
 
 # Day 19 - More Turtle Graphics, Event listeners, State and multiple instances
 
+Building a turtle racing game using multiple instances of the turtle class. 
+
+Documentation is a description of all the possible functions that a library can perform. Documentation is useful because it helps us find out which functions we can use with certain libraries. Documentation also includes what the parameters of each function are, and what data type the result will be after the function has been executed.
+
+It's good to check out the documentation of the library that you want to use, and to have a look at the functions that can be performed. Most of the time, you will be going back and forth between the documentation and your own code, which is perfectly fine. 
+
+The idea is not to memorise all the functions, but to be able to use them when you need them.
+
 # Day 20 - Build the snake game Part 1 - Animation and Control
 
 The snake game makes use of an array of python turtles, which all follow the head of the snake. This means that controlling movement with the snake is simple, as each segment of the snake follows the head, so only the head needs to change direction each time.
@@ -303,8 +311,15 @@ Added a highscore file to Snake so that the game saves the highest score on the 
 
 # Day 25 - Working with CSV data and Pandas module
 
-Pandas module allows us to perform data analysis on big datasets.
-Pandas has 2 main data structures: Data Frames and Series.
-Data Frames are similar to tables, Series are similar to lists.
+Pandas module allows us to perform data analysis on big datasets. Pandas has 2 main data structures: Data Frames and Series. Data Frames are similar to tables, Series are similar to lists.
 
 # Day 26 - List Comprehension and the NATO Alphabet
+
+List comprehension: `new_list = [new_item for item in list]`
+
+Dictionary comprehension: `new_dict = {new_key:new_value for item in list}`
+
+Comprehensions help us to reduce the amount of code we are writing, whilst still performing exactly the same way. They are very useful for lists and dictionaries, as mentioned above. 
+
+
+
