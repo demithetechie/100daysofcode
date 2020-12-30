@@ -317,7 +317,7 @@ Pandas module allows us to perform data analysis on big datasets. Pandas has 2 m
 
 List comprehension: `new_list = [new_item for item in list]`
 
-Dictionary comprehension: `new_dict = {new_key:new_value for item in list}`
+Dictionary comprehension: `new_dict = {new_key:new_value for item in list}` or `new_dict = {new_key:new_value for (key, value) in dict.items()}`
 
 Comprehensions help us to reduce the amount of code we are writing, whilst still performing exactly the same way. They are very useful for lists and dictionaries, as mentioned above. 
 
