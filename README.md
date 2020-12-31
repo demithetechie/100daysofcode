@@ -321,5 +321,17 @@ Dictionary comprehension: `new_dict = {new_key:new_value for item in list}` or `
 
 Comprehensions help us to reduce the amount of code we are writing, whilst still performing exactly the same way. They are very useful for lists and dictionaries, as mentioned above. 
 
+# Day 27 - Tkinter, `*args and **kwargs` and Creating GUIs
 
+Tkinter is a module used to create UIs in python.
+
+# Day 28 - Tkinter, Dynamic Typing and the Pomodoro Calendar
+
+# Day 29 - Building a Password Manager GUI App
+
+# Day 30 - Errors, Exceptions and JSON Data
+
+# Day 31 - Flash Card App Capstone Project
+
+# Day 32 - ???
 
