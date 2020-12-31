@@ -323,7 +323,11 @@ Comprehensions help us to reduce the amount of code we are writing, whilst still
 
 # Day 27 - Tkinter, `*args and **kwargs` and Creating GUIs
 
-Tkinter is a module used to create UIs in python. 
+Tkinter is a module used to create UIs in python. Some functions have default values for arguments, meaning that we only need to provide the required arguments. We can still change the values for the default arguments if needed.
+
+`*args` allows you to have an unlimited number of arguments for a function. It requires one asterick, and the name does not need to be args. This alows you to loop through each argument as a tuple and perform the function on each argument.
+
+`**kwargs` allows you to have an unlimited number of keyword arguments for a function. It requires 2 astericks, and yet again, the name does not need to be kwargs. 
 
 # Day 28 - Tkinter, Dynamic Typing and the Pomodoro Calendar
 
