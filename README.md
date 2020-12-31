@@ -323,7 +323,7 @@ Comprehensions help us to reduce the amount of code we are writing, whilst still
 
 # Day 27 - Tkinter, `*args and **kwargs` and Creating GUIs
 
-Tkinter is a module used to create UIs in python.
+Tkinter is a module used to create UIs in python. 
 
 # Day 28 - Tkinter, Dynamic Typing and the Pomodoro Calendar
 
