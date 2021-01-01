@@ -327,7 +327,7 @@ Tkinter is a module used to create UIs in python. Some functions have default va
 
 `*args` allows you to have an unlimited number of arguments for a function. It requires one asterick, and the name does not need to be args. This alows you to loop through each argument as a tuple and perform the function on each argument.
 
-`**kwargs` allows you to have an unlimited number of keyword arguments for a function. It requires 2 astericks, and yet again, the name does not need to be kwargs. 
+`**kwargs` allows you to have an unlimited number of keyword arguments for a function. It requires 2 astericks, and yet again, the name does not need to be kwargs. The function creates a dictionary with the variable name and value passed into the function. 
 
 # Day 28 - Tkinter, Dynamic Typing and the Pomodoro Calendar
 
