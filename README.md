@@ -266,6 +266,14 @@ A **tuple** is a data structure in python, which is created using parathesis. Tu
 
 # Day 19 - More Turtle Graphics, Event listeners, State and multiple instances
 
+Building a turtle racing game using multiple instances of the turtle class. 
+
+Documentation is a description of all the possible functions that a library can perform. Documentation is useful because it helps us find out which functions we can use with certain libraries. Documentation also includes what the parameters of each function are, and what data type the result will be after the function has been executed.
+
+It's good to check out the documentation of the library that you want to use, and to have a look at the functions that can be performed. Most of the time, you will be going back and forth between the documentation and your own code, which is perfectly fine. 
+
+The idea is not to memorise all the functions, but to be able to use them when you need them.
+
 # Day 20 - Build the snake game Part 1 - Animation and Control
 
 The snake game makes use of an array of python turtles, which all follow the head of the snake. This means that controlling movement with the snake is simple, as each segment of the snake follows the head, so only the head needs to change direction each time.
@@ -291,10 +299,49 @@ mylist[2:6:2] # returns every 2nd item between the 2th item and the 6th item (3r
 ```
 # Day 22 - Build Pong: Famous Arcade Game
 
+Creating various instances of an object, detecting collisions between the ball and the pong paddle. Ball movement goes diagonal across x and y axis.
+
 # Day 23 - Turtle Crossing Capstone Project
+
+Similar gameplay to crossy road. As the level goes up, the speed of the cars increase.
 
 # Day 24 - Files, Directories and Paths
 
+Added a highscore file to Snake so that the game saves the highest score on the device.
+
 # Day 25 - Working with CSV data and Pandas module
 
+Pandas module allows us to perform data analysis on big datasets. Pandas has 2 main data structures: Data Frames and Series. Data Frames are similar to tables, Series are similar to lists.
+
 # Day 26 - List Comprehension and the NATO Alphabet
+
+List comprehension: `new_list = [new_item for item in list]`
+
+Dictionary comprehension: `new_dict = {new_key:new_value for item in list}` or `new_dict = {new_key:new_value for (key, value) in dict.items()}`
+
+Comprehensions help us to reduce the amount of code we are writing, whilst still performing exactly the same way. They are very useful for lists and dictionaries, as mentioned above. 
+
+# Day 27 - Tkinter, `*args and **kwargs` and Creating GUIs
+
+Tkinter is a module used to create UIs in python. Some functions have default values for arguments, meaning that we only need to provide the required arguments. We can still change the values for the default arguments if needed.
+
+`*args` allows you to have an unlimited number of arguments for a function. It requires one asterick, and the name does not need to be args. This alows you to loop through each argument as a tuple and perform the function on each argument.
+
+`**kwargs` allows you to have an unlimited number of keyword arguments for a function. It requires 2 astericks, and yet again, the name does not need to be kwargs. The function creates a dictionary with the variable name and value passed into the function. 
+
+# Day 28 - Tkinter, Dynamic Typing and the Pomodoro Calendar
+
+**Dynamic typing** means that a variable type can change as the program runs. The Python interpreter checks the type of the variable as the code runs. Python specifically uses strong dynamic typing, which basically means that the type change needs to be explicit (simply putting numbers in a string does not suddenly change the string to an integer, as it does in Perl).
+
+The opposite is **static typing** which is seen in C and Java. This is where the type of the variable is determined before the code runs, usually during the stages of compilation. You can't change the type of a variable with static typing.
+
+Added code for the pomodoro timer in day 28 folder. Note to self: Don't press start more than once, it breaks the system😂
+
+# Day 29 - Building a Password Manager GUI App
+
+# Day 30 - Errors, Exceptions and JSON Data
+
+# Day 31 - Flash Card App Capstone Project
+
+# Day 32 - ???
+
