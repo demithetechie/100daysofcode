@@ -331,6 +331,12 @@ Tkinter is a module used to create UIs in python. Some functions have default va
 
 # Day 28 - Tkinter, Dynamic Typing and the Pomodoro Calendar
 
+**Dynamic typing** means that a variable type can change as the program runs. The Python interpreter checks the type of the variable as the code runs. Python specifically uses strong dynamic typing, which basically means that the type change needs to be explicit (simply putting numbers in a string does not suddenly change the string to an integer, as it does in Perl).
+
+The opposite is **static typing** which is seen in C and Java. This is where the type of the variable is determined before the code runs, usually during the stages of compilation. You can't change the type of a variable with static typing.
+
+Added code for the pomodoro timer in day 28 folder. Note to self: Don't press start more than once, it breaks the system😂
+
 # Day 29 - Building a Password Manager GUI App
 
 # Day 30 - Errors, Exceptions and JSON Data
