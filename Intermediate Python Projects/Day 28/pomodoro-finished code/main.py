@@ -25,9 +25,6 @@ def reset_timer():
     tick_lbl.config(text="✓")
     
 
-
-
-
 # ---------------------------- TIMER MECHANISM ------------------------------- #
 
 
