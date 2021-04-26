@@ -11,3 +11,11 @@ The repository is organised as followed:
 - I have notes from each day as well which will be collated into each difficulty i.e. one md file for beginner python notes
 
 UPDATE (26/04/2020): Currently on Day 31 - Flash Card App Capstone Project (End of Intermediate Python Projects)
+
+# Quick Links
+
+[Beginner Python Notes](/Beginner%20Python%20Projects/Beginner%20Python%20Notes.md/)
+
+[Intermediate Python Notes](/Intermediate%20Python%20Projects/Intermediate%20Python%20Notes.md/)
+
+[Intermediate+ Python Notes](/Intermediate+%20Python%20Projects/Intermediate+%20Python%20Notes.md/)
