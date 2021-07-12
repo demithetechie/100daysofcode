@@ -1,7 +1,6 @@
 # 👩🏾‍💻100 days of code👩🏾‍💻
 
-I will be starting the 100 days of code challenge with Python. Updates will be placed here daily from 1st December.
-Proposed finish date: 11th March 2021
+I will be starting the 100 days of code challenge with Python. Updates will be placed here ~~daily~~ from 1st December.
 
 # Day 1 - Printing, Variables, Strings
 
