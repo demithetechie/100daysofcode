@@ -46,7 +46,7 @@ def __init__(self, name, age):
 ```
 Method are created as new functions. All methods need to have the self parameter.
 
-# Day 18 - Turle graphics, tuples and importing modules
+# Day 18 - Turtle graphics, tuples and importing modules
 
 A **tuple** is a data structure in python, which is created using parathesis. Tuple values cannot be changed, they are immutable. Tuples are useful for data that you do not want to change. They can also act as keys in python dictionaries.
 
